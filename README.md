@@ -1,2 +1,3 @@
 # git-practice
-no-fast-forwardブランチで変更
+mainブランチで変更ブランチで変更
+
